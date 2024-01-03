@@ -7,10 +7,9 @@ var image = {
 };
 text = "hello iam a predefined variable";
 var  time = DateTime.now();
-print(DateTime.now());
+print(time);
     print(flybyObjects[0]);
-
-    print(image.values);
+    print(image.values);  
 }
 //  to install dart sdk you need to follow this steps:
 // run this if you are using windows choco install dart-sdk else visit this website  https://dart.dev/get-dart
